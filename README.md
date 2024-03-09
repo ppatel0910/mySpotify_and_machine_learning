@@ -6,15 +6,15 @@
 
 #### As a daily user of Spotify, I can attest that the song/tracks recommended are not up to par. So naturally, I sought out a way to recommend myself better songs. Within this repository, I will use the Spotify Web API, in conjunction with the lightweight Python library,Spotipy, to extract songs and music features from my own playlist. Using the extracted data I will produce new song recommendations for myself.
 
-#### To use the Spotify API, users should start with the Spotify API documentation, link below
+#### To use the Spotify API, users should start with the Spotify API documentation, link below:
 [Spotify_web_api_documentation](https://developer.spotify.com/documentation/web-api)
 
-#### Below is the link to the Spotipy documentation
+#### Below is the link to the Spotipy documentation:
 [Spotipy_documentation](https://spotipy.readthedocs.io/en/2.22.1/#examples)
 
 ## General Process
 
-#### I connected to the Spotify web API using the instructions provided from the link above, and was granted a client ID, and a client secret key. With these credentials, I requested an access token and was successfully able to make calls to the Spotify web API. I then made calls to the Spotify API to retrieve data such as music features, and compiled this data in a pandas dataframe. Using this dataframe I was able to train a  mdel to recommend songs to myself 
+#### I connected to the Spotify web API using the instructions provided from the link above, and was granted a client ID, and a client secret key. With these credentials, I requested an access token and was successfully able to make calls to the Spotify web API. I then made calls to the Spotify API using the imported Python library, Spotipy, to retrieve data such as music features. I then compiled the extracted data into a pandas dataframe. There was not much data cleaning to be done, as I essentially collected the data myself. I created a graph showing which genres of music I like the most using the dataframe. Using this dataframe I was able to train a  mdel to recommend songs to myself 
 
 # plot the audio features amongst the constructed dataframe to see what i typically like regarding music
 
