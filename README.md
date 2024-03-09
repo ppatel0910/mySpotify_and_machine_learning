@@ -9,5 +9,8 @@
 ### To use the Spotify API, users should start with the Spotify API documentation, link below
 [Spotify_web_api_documentation](https://developer.spotify.com/documentation/web-api)
 
+## General Process
+
+### I connected to the Spotify web API using the instructions provided from the link above, and was granted a client ID, and a client secret key. With these credentials, I requested an access token and was successfully able to make calls to the Spotify web API. I then made calls to the Spotify API to retrieve data such as music features and my personal Spotify playlists. 
 
 ## Results
