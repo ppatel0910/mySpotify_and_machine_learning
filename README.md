@@ -6,7 +6,7 @@
 
 ### As a daily user of Spotify, I can attest that the song/tracks recommended are not up to par. So naturally, I sought out a way to recommend myself better songs. Within this notebook, I will use the Spotify Web API to extract songs and features from my own playlists to produce new song recommendations for myself.
 
-### To use the Spotify API, users should start with the link below: It is the Spotify API documentation webpage.
+### To use the Spotify API, users should start with the Spotify API documentation, link is below
 [Spotify_web_api_documentation](https://developer.spotify.com/documentation/web-api)
 
 
