@@ -2,4 +2,7 @@
 
 ## Background
 
+### Spotify is a leading digital platform for streaming music, podcasts, and playlists, offering users a vast selection of audio content. Accessible through its app or website, Spotify allows listeners to enjoy on-demand music, curate personalized playlists, and explore new artists and genres. With both free and premium subscription tiers, Spotify has become a go-to destination for music lovers globally. (and personally myself)
+
+
 ## Results
