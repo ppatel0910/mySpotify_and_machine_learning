@@ -22,7 +22,8 @@
 
 #### Resources Used 
 
-[Spotify_documentation](https://developer.spotify.com/documentation/web-api)
+
+- [Spotify_documentation](https://developer.spotify.com/documentation/web-api)
 [Spotify_documentation](https://developer.spotify.com/documentation/web-api/reference/get-recommendations)
 [Spotify_documentation](https://developer.spotify.com/documentation/web-api/concepts/scopes)
 [youtube_spotify_web_api_tutoriaL](https://www.youtube.com/watch?v=oNyaiWgqKDI)
