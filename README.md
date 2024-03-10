@@ -19,3 +19,11 @@
 # plot the audio features amongst the constructed dataframe to see what i typically like regarding music
 
 ## Results
+
+#### Resources Used 
+
+[Spotify_documentation](https://developer.spotify.com/documentation/web-api)
+[Spotify_documentation](https://developer.spotify.com/documentation/web-api/reference/get-recommendations)
+[Spotify_documentation](https://developer.spotify.com/documentation/web-api/concepts/scopes)
+[youtube_spotify_web_api_tutoriaL](https://www.youtube.com/watch?v=oNyaiWgqKDI)
+[spotify_web_api_tutoriaL_article](https://levelup.gitconnected.com/music-analysis-with-spotify-api-59c080734c6e)
