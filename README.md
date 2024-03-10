@@ -2,7 +2,7 @@
 
 ## Background
 
-#### Spotify is a leading digital platform for streaming music, podcasts, and playlists, offering users a vast selection of audio content. Accessible through its app or website, Spotify allows listeners to enjoy on-demand music, curate personalized playlists, and explore new artists and genres. With both free and premium subscription tiers, Spotify has become a go-to destination for music lovers globally. (and personally myself)
+#### Spotify is a leading digital platform for streaming music, podcasts, and playlists. The service offers users a vast selection of audio content such as songs and podcasts. Accessible through its app or website, Spotify allows listeners to enjoy on-demand music, curate personalized playlists, explore 1000s of Spotify curated playlists, and more. With both free and premium subscription tiers, Spotify has become a go-to destination for music lovers globally. (and personally myself :stuck_out_tongue_closed_eyes:)
 
 #### As a daily user of Spotify, I can attest that the song/tracks recommended are not up to par. So naturally, I sought out a way to recommend myself better songs. Within this repository, I will use the Spotify Web API, in conjunction with the lightweight Python library,Spotipy, to extract songs and music features from my own playlist. Using the extracted data I will produce new song recommendations for myself.
 
