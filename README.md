@@ -16,8 +16,6 @@
 
 #### I connected to the Spotify web API using the instructions provided from the link above, and was granted a client ID, and a client secret key. With these credentials, I requested an access token and was successfully able to make calls to the Spotify web API. I then made calls to the Spotify API using the imported Python library, Spotipy, to retrieve data such as music features. I then compiled the extracted data into a pandas dataframe. There was not much data cleaning to be done, as I essentially collected the data myself. I created a graph showing which genres of music I like the most using the dataframe. Using this dataframe I was able to train a  mdel to recommend songs to myself 
 
-# plot the audio features amongst the constructed dataframe to see what i typically like regarding music
-
 ## Results
 
 ### Resources Used 
