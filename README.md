@@ -28,3 +28,4 @@
 - [Youtube_spotify_web_api_tutoriaL](https://www.youtube.com/watch?v=oNyaiWgqKDI)
 - [Spotify_web_api_tutoriaL_article](https://levelup.gitconnected.com/music-analysis-with-spotify-api-59c080734c6e)
 - [Another_Spotify_web_api_tutoriaL_article](https://www.grace-dev.com/python-apis/python-spotify-api/)
+- [Spotipy_documentation](https://spotipy.readthedocs.io/en/2.22.1/#features)
