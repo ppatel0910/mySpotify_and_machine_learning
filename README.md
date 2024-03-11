@@ -26,3 +26,4 @@
 - [Spotify_documentation](https://developer.spotify.com/documentation/web-api/concepts/scopes)
 - [Youtube_spotify_web_api_tutoriaL](https://www.youtube.com/watch?v=oNyaiWgqKDI)
 - [Spotify_web_api_tutoriaL_article](https://levelup.gitconnected.com/music-analysis-with-spotify-api-59c080734c6e)
+- [Another_Spotify_web_api_tutoriaL_article](https://www.grace-dev.com/python-apis/python-spotify-api/)
