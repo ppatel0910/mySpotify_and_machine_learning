@@ -22,6 +22,10 @@
 
 ![number_of_playlists_in_each_category](https://github.com/ppatel0910/mySpotify_and_machine_learning/blob/main/images/initial_category_bar_graph.png)
 
+#### The graph belows shows the hour of the day that I listened to my recently played songs. Based on my recent listening history, only two songs were listened to in the morning, and the rest were after 4pm. I listen to Spotify everyday, so this graph will constantly be changing when the code is run based on my current listening habits.  
+
+![number_of_songs_played_based_on_hour](https://github.com/ppatel0910/mySpotify_and_machine_learning/blob/main/images/number_of_songsplayed-based-on-hour.png)
+
 
 ### Resources Used 
 
