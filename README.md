@@ -26,6 +26,10 @@
 
 ![number_of_playlists_listened_to_by_year_graph](https://github.com/ppatel0910/mySpotify_and_machine_learning/blob/main/images/playlists_based_on_year.png)
 
+#### Visual of audio features of the track "I love it" by Lil Pump featuring Kanye West.
+
+![visual_of_list_of_audio_features_of_a_song](https://github.com/ppatel0910/mySpotify_and_machine_learning/blob/main/images/example_of_track_audio_features.png)
+
 #### The graph belows shows the hour of the day that I listened to my recently played songs. Based on my recent listening history, only two songs were listened to in the morning, and the rest were after 4pm. I listen to Spotify everyday, so this graph will constantly be changing when the code is run based on my current listening habits.  
 
 ![number_of_songs_played_based_on_hour](https://github.com/ppatel0910/mySpotify_and_machine_learning/blob/main/images/number_of_songsplayed-based-on-hour.png)
