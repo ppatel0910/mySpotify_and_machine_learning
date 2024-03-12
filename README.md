@@ -18,6 +18,11 @@
 
 ## Results
 
+#### This graph depicts the number of playlists in each category in the initial dataframe 'df'. 
+
+![number_of_playlists_in_each_category](https://github.com/ppatel0910/mySpotify_and_machine_learning/blob/main/images/initial_category_bar_graph.png)
+
+
 ### Resources Used 
 
 
