@@ -34,6 +34,9 @@
 
 ![number_of_songs_played_based_on_hour](https://github.com/ppatel0910/mySpotify_and_machine_learning/blob/main/images/number_of_songsplayed-based-on-hour.png)
 
+![number_of_songs_played_based_on_hour](https://github.com/ppatel0910/spotify_web_api_and_python/blob/main/images/spotify_recently_played_3-17-2024.png)
+
+
 
 ### Resources Used 
 
